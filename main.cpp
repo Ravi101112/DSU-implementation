@@ -1,6 +1,6 @@
 # DSU-implementation
 
-
+//DSU
 #include<iostream>
 using namespace std;
 #include <vector>
