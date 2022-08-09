@@ -1,6 +1,5 @@
 # DSU-implementation
 
-//EXAMPLE IMPLEMENTATION
 
 #include<iostream>
 using namespace std;
