@@ -3,7 +3,6 @@
 #include <vector>
 using namespace std;
 
-//a class for disjoint set union data structure
 class DSU
 {
     public:
