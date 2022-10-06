@@ -1,9 +1,4 @@
-# DSU-implementation
-implementation of DSU using path and rank compression
-union find data structure with union by rank and path compression heuristics
-include "DSU.h" in your source file. following functionalities are provided: 
-a. construct DSU with n groups.
-b. add new group to the DSU.
-c. merge two existing groups. 
-d. find the root of the group to which an element belongs. 
-e. find number of elements in the group to which an element belongs. Example usage : DSU myDSU(n);
+Glucose monitoring system is a closed loop feedback system used to control the glucose level of a diabetic patient.
+It consists of a nonlinear Kalman filter used for estimating the states of the patient and a contoller for giving controlled insulin dosage
+Implementation of controller and filter are done using Matlab and simulink wherein a simulink model is used to demonstrate how the insulin dosage changes acccording to the current glucose level of the patient
+       
