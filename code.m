@@ -240,7 +240,7 @@ plot(Gb, 'm')
 plot(y_u, 'k')
 plot(x(1,:), 'r')
 legend('Hyperglycemia', 'Hypoglycemia', 'Gb', 'x1(t) Untreated', 'x1(t) Treated-Filter Estimate')
-hold off
+
 
 
 figure(3)
